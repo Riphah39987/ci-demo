@@ -1,0 +1,21 @@
+{
+  "name": "ci-demo",
+  "version": "1.0.0",
+  "description": "A simple Node.js project for CI testing using Jest",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "ci",
+    "github-actions",
+    "jest",
+    "nodejs"
+  ],
+  "author": "Umer",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
+
